@@ -9,7 +9,7 @@ Welcome to the **Sarcastic Unique Number Generator**—the groundbreaking, life-
 - **One-of-a-Kind Numbers**: Because who doesn’t want a number as unique as your questionable life choices?
 - **Built-in Sarcasm**: Each number is paired with a snarky remark, lovingly crafted to remind you just how thrilling your life has become.
 - **Unapologetically Simple**: Click a button. Get a number. No fluff, no unnecessary features—because we know you’re here to waste time efficiently.
-
+- **Fun fact: your change of getting the number `1` is `1/1000000000000`**.
 ---
 
 ## 🛠️ How It Works
