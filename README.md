@@ -46,22 +46,17 @@ Getting started is easier than finding another way to procrastinate:
    git clone git@github.com:karaa1122/random-number.git
    ```
 
-2. Navigate to the project directory:
-   ```sh
-   cd random-numbers
-   ```
-
-3. Install the dependencies:
+2. Install the dependencies:
    ```sh
    pip install -r requirements.txt
    ```
 
-4. Run the server:
+3. Run the server:
    ```sh
    python manage.py runserver
    ```
 
-5. Open your browser and experience the magic at `http://127.0.0.1:8000`.
+4. Open your browser and experience the magic at `http://127.0.0.1:8000`.
 
 ---
 
