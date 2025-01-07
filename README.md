@@ -34,7 +34,7 @@ With over 30+ snarky comments (and counting), you’ll never feel underappreciat
 Clone the repository:
 
 ```sh
-git clone https://github.com/your-repo/sarcastic-number-generator.git
+git clone git@github.com:karaa1122/random-number.git
 ```
 
 Navigate to the project directory:
