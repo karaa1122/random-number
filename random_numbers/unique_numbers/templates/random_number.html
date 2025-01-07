@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Unique Number Generator Nobody Asked For</title>
+    <style>
+        body {
+            font-family: "Comic Sans MS", sans-serif;
+            background-color: #1e1e1e;
+            color: #f39c12;
+            text-align: center;
+            padding: 2em;
+            margin: 0;
+        }
+        h1 {
+            font-size: 3em;
+            color: #e74c3c;
+        }
+        .number {
+            font-size: 5em;
+            margin: 1em 0;
+            color: #3498db;
+        }
+        .message {
+            font-size: 1.5em;
+            margin-bottom: 2em;
+        }
+        .button {
+            padding: 1em 2em;
+            background-color: #e74c3c;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            font-size: 1.2em;
+            cursor: pointer;
+            transition: transform 0.2s, background-color 0.3s;
+        }
+        .button:hover {
+            background-color: #c0392b;
+            transform: scale(1.1);
+        }
+        footer {
+            margin-top: 2em;
+            font-size: 0.9em;
+            color: #95a5a6;
+        }
+    </style>
+</head>
+<body>
+    <h1>The Unique Number Generator</h1>
+    <p class="number">{{ number }}</p>
+    <p class="message">{{ message }}</p>
+    <button class="button" onclick="window.location.reload();">Generate Another Life-Changing Number</button>
+    <footer>
+        <p>Warning: Numbers generated here have no real-world value. Don't sue us if you're disappointed.</p>
+    </footer>
+</body>
+</html>
